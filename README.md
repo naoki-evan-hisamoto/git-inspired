@@ -1,5 +1,5 @@
 # git-inspired
 Abel + Naoki git inspired.
 
-##Websites
+## Websites
 [Stripe](https://stripe.com/ "Localization")
