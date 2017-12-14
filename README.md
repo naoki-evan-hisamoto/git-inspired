@@ -1,6 +1,10 @@
 # git-inspired
 Abel + Naoki git inspired.
 
+## Design Foundation
+### Principles
+
+[Principles.Design](https://principles.design/ "Principles.Design — An open source resource created to help us understand and create Design Principles.")
 
 ## Websites
 ### Overall Inspiration
