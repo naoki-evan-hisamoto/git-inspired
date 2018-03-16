@@ -21,6 +21,13 @@ Abel + Naoki git inspired.
 
 ### Navigation Inspiration
 
+## Elements
+### Icon Inspiration
+
+[Illustrations for Inforgraphic Design](https://dribbble.com/shots/4353467-Illustrations-for-Infographic-Design-wip "Illustrations for Inforgraphic Design")
+
+### Animation Inspiration
+
 ## Resources
 ### Development
 
