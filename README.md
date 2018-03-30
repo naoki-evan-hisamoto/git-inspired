@@ -15,6 +15,8 @@ Abel + Naoki git inspired.
 
 [Stripe](https://stripe.com/ "Stripe — The new standard in online payments")
 
+[Outrider](https://outrider.org/ "Outrider believes in the power of an educated, engaged public.")
+
 ### Animation Inspiration
 
 ### Color Scheme Inspiration
