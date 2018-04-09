@@ -10,6 +10,10 @@ Abel + Naoki git inspired.
 
 [Principles.Design](https://principles.design/ "Principles.Design — An open source resource created to help us understand and create Design Principles.")
 
+### Design Systems
+
+[Design Systems Repo](https://designsystemsrepo.com/ "A frequently updated collection of Design System examples, articles, books and talks.")
+
 ## Websites
 ### Overall Inspiration
 
