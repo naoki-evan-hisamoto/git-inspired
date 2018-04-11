@@ -17,6 +17,8 @@ Abel + Naoki git inspired.
 ## Websites
 ### Overall Inspiration
 
+[zeit.co](https://zeit.co/ "Instant Global Deployments — Deploy to the most powerful serverless platform in the world with just one command.")
+
 [Stripe](https://stripe.com/ "Stripe — The new standard in online payments")
 
 [Outrider](https://outrider.org/ "Outrider believes in the power of an educated, engaged public.")
