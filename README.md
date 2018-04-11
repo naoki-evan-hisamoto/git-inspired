@@ -36,6 +36,8 @@ Abel + Naoki git inspired.
 
 [Illustrations for Inforgraphic Design](https://dribbble.com/shots/4353467-Illustrations-for-Infographic-Design-wip "Illustrations for Inforgraphic Design")
 
+[Stripe Open Source](https://stripe.com/open-source "Stripe relies on open-source software and likes to give back to the community.")
+
 ### Animation Inspiration
 
 ## Resources
