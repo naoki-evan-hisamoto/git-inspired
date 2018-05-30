@@ -29,6 +29,8 @@ Abel + Naoki git inspired.
 
 [work.co](https://work.co/ "Work & Co designs and develops digital products for the world's most respected brands")
 
+[WePresent.WeTransfer](https://wepresent.wetransfer.com/ "WePresent.WeTransfer")
+
 ### Interaction Inspiration
 
 [Webflow ECommerce](https://webflow.com/ecommerce "Webflow — Ecommerce, meet complete design freedom.")
@@ -42,11 +44,17 @@ Abel + Naoki git inspired.
 ### Navigation Inspiration
 
 ## Elements
-### Icon Inspiration
+### Iconography
+
+[Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a "Optical Effects in User Interfaces")
 
 [Illustrations for Inforgraphic Design](https://dribbble.com/shots/4353467-Illustrations-for-Infographic-Design-wip "Illustrations for Inforgraphic Design")
 
 [Stripe Open Source](https://stripe.com/open-source "Stripe relies on open-source software and likes to give back to the community.")
+
+[Nucleo - Icon Guidelines Introduction](https://blog.nucleoapp.com/nucleo-icon-guidelines-introduction-70092f8b4697 "Nucleo - Icon Guidelines Introduction")
+
+[Illustration Definition](https://dribbble.com/shots/4522558-Illustration-Definition "Illustration Definition — JT Grauke for Focus Labs")
 
 ### Animation Inspiration
 
