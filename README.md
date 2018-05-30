@@ -14,6 +14,10 @@ Abel + Naoki git inspired.
 
 [Design Systems Repo](https://designsystemsrepo.com/ "A frequently updated collection of Design System examples, articles, books and talks.")
 
+### Typography
+
+[Airbnb/Cereal](https://airbnb.design/cereal/ "Say hello to — Airbnb Cereal")
+
 ## Websites
 ### Overall Inspiration
 
