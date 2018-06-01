@@ -47,6 +47,8 @@ Abel + Naoki git inspired.
 
 [Lunamik](https://www.lunamik.com.au/  "Video, Animation, & Explainers")
 
+[Team Studio](http://weareteamstudio.com/  "We are a digital brand studio based in Portland, OR.")
+
 ## Elements
 ### Iconography
 
