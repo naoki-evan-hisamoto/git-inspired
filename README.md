@@ -31,6 +31,10 @@ Abel + Naoki git inspired.
 
 [WePresent.WeTransfer](https://wepresent.wetransfer.com/ "WePresent.WeTransfer")
 
+### Events
+
+[A conference by Framer on design, tools & beyond.](https://framer.com/loupe/ "A conference by Framer on design, tools & beyond.")
+
 ### Interaction Inspiration
 
 [Webflow ECommerce](https://webflow.com/ecommerce "Webflow — Ecommerce, meet complete design freedom.")
