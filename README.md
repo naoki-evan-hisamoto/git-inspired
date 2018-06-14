@@ -33,7 +33,7 @@ Abel + Naoki git inspired.
 
 ### Events
 
-[A conference by Framer on design, tools & beyond.](https://framer.com/loupe/ "A conference by Framer on design, tools & beyond.")
+[Loupe Conference by Framer](https://framer.com/loupe/ "A conference by Framer on design, tools & beyond.")
 
 ### Interaction Inspiration
 
