@@ -68,6 +68,10 @@ Abel + Naoki git inspired.
 
 ### Animation Inspiration
 
+### Cards Inspiration
+
+[About Us Section for PLATFORM](https://dribbble.com/shots/2602197-About-Us-Section "About Us Section")
+
 ## Resources
 ### Development
 
