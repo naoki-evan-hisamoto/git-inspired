@@ -68,6 +68,8 @@ Abel + Naoki git inspired.
 
 ### Animation Inspiration
 
+[Games Pattern](https://dribbble.com/shots/4715354-Games-Pattern "Games Pattern")
+
 ### Cards Inspiration
 
 [About Us Section for PLATFORM](https://dribbble.com/shots/2602197-About-Us-Section "About Us Section")
