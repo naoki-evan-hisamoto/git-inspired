@@ -96,3 +96,5 @@ Abel + Naoki git inspired.
 
 [TinyPNG](https://tinypng.com/ "TinyPNG — PNG and JPG Compressor")
 
+[vivid.js](https://webkul.github.io/vivid/ "A JavaScript library which is built to easily customize and use the SVG Icons with a blaze.")
+
