@@ -91,3 +91,8 @@ Abel + Naoki git inspired.
 ### Tools
 
 [Illustration Tools](https://illustration.tools/ "Directory of tools and resources for illustrators")
+
+[BIRME - Bulk Image Resizing Made Easy 2.0](birme.net "BIRME - Bulk Image Resizing Made Easy 2.0")
+
+[TinyPNG](https://tinypng.com/ "TinyPNG — PNG and JPG Compressor")
+
