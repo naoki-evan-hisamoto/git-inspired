@@ -85,6 +85,8 @@ Abel + Naoki git inspired.
 
 [codyhouse.co](https://codyhouse.co/web-components "HTML, CSS, JS Components and Experiments")
 
+[Design Notes](http://www.designnotes.co/ "A free resource library for product designers")
+
 
 ### CSS
 
